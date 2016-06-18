@@ -1,5 +1,5 @@
-//please contact me hangchuanus.com@gmail.com
-//website http://hangchuanus.com
+//please contact me giaiphapthuonghieu.org@gmail.com
+//website http://giaiphapthuonghieu.vn or http://faceseo.vn
 (function($) {
     $.fn.linhnguyen = function(options) {        
         var defaults = {  
